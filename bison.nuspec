@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Bison</id>
+    <version>3.7.4</version>
+    <description>GNU Bison (parser generator)</description>
+    <tags>Native, native, bison, parser, LALR, GNU</tags>
+    <authors>geographika</authors>
+    <license type="file">COPYING.txt</license>
+    <projectUrl>https://www.gnu.org/software/bison/</projectUrl>
+    <readme>README.md</readme>
+  </metadata>
+
+  <files>
+    <file src="bin/**/*.*" />
+    <file src="AUTHORS.txt"/>
+    <file src="COPYING.txt"/>
+    <file src="README.md"/>
+  </files>
+</package>
